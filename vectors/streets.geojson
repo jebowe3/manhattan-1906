@@ -3,7 +3,7 @@
 "name": "streets",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 783, "name": "Scammel St." }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.983050607995054, 40.7113714602039 ], [ -73.98335, 40.714 ], [ -73.983406064707864, 40.714620089581551 ], [ -73.983386412923224, 40.714992681886656 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 789, "name": "Macomb's Lane Bridge" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.93489, 40.82803 ], [ -73.933056753421027, 40.828168306844056 ] ] ] } },
 { "type": "Feature", "properties": { "id": 1, "name": "E. 50th St." }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.97724, 40.75858 ], [ -73.96415, 40.75295 ] ] ] } },
 { "type": "Feature", "properties": { "id": 2, "name": "E. 89th St." }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.95904, 40.7835 ], [ -73.94325, 40.77675 ] ] ] } },
 { "type": "Feature", "properties": { "id": 3, "name": "Columbus Ave." }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -74.00653, 40.73939 ], [ -74.00268, 40.74465 ], [ -73.98761, 40.76536 ], [ -73.97882, 40.77743 ], [ -73.96105, 40.80179 ] ] ] } },
@@ -785,6 +785,14 @@
 { "type": "Feature", "properties": { "id": 779, "name": "Mechanic's Alley" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.992754104506687, 40.711759540590172 ], [ -73.992662620859136, 40.710829033038088 ] ] ] } },
 { "type": "Feature", "properties": { "id": 780, "name": "Montgomery St." }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.985381747066413, 40.714904801187124 ], [ -73.98523, 40.7138 ], [ -73.985106211271457, 40.713053857903361 ], [ -73.984881276481616, 40.711638093551542 ], [ -73.984667942990143, 40.710657369218765 ], [ -73.984587001597887, 40.710250168943418 ] ] ] } },
 { "type": "Feature", "properties": { "id": 781, "name": "Gouverneur Slip" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.983756490108448, 40.710169960406617 ], [ -73.983913884672461, 40.711299643979402 ], [ -73.983319555957422, 40.71134908635716 ], [ -73.983164861422551, 40.710207963681917 ] ] ] } },
-{ "type": "Feature", "properties": { "id": 782, "name": "Gouverneur St." }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.983616720314927, 40.711324365172857 ], [ -73.983791602584688, 40.712530494619088 ], [ -73.983875965996148, 40.713189343555349 ], [ -73.984077269093561, 40.714565444298515 ], [ -73.984126882556993, 40.714996592698043 ] ] ] } }
+{ "type": "Feature", "properties": { "id": 782, "name": "Gouverneur St." }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.983616720314927, 40.711324365172857 ], [ -73.983791602584688, 40.712530494619088 ], [ -73.983875965996148, 40.713189343555349 ], [ -73.984077269093561, 40.714565444298515 ], [ -73.984126882556993, 40.714996592698043 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 783, "name": "Scammel St." }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.983050607995054, 40.7113714602039 ], [ -73.98335, 40.714 ], [ -73.983406064707864, 40.714620089581551 ], [ -73.983386412923224, 40.714992681886656 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 784, "name": "Willis Ave. Bridge" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.93008, 40.80315 ], [ -73.928054202277465, 40.803970170542534 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 785, "name": "2nd Ave. Bridge" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.93162, 40.80525 ], [ -73.930057635085674, 40.805848772279717 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 786, "name": "3rd Ave. Bridge" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.93325, 40.80702 ], [ -73.931696070433475, 40.807802229998863 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 787, "name": "Madison Ave. Bridge" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.93447, 40.81411 ], [ -73.932268116878589, 40.81410286231128 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 788, "name": "145th St. Bridge" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.93409, 40.8195 ], [ -73.93233302762556, 40.819522370462266 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 790, "name": "Washington Bridge" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.92866, 40.84713 ], [ -73.927001196547579, 40.846387686502609 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 791, "name": "Broadway Bridge" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.91173, 40.87295 ], [ -73.91045341192013, 40.873970353140933 ] ] ] } }
 ]
 }
